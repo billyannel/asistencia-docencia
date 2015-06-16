@@ -1,0 +1,1 @@
+Organizar horario de entrada y salida de docentes dentro de la institución a través de su huella digital, mediante un sistema dáctilar
